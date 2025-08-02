@@ -13,7 +13,7 @@
 <div class="container"> 
     <center>
 
-        <h4>GUERRERO SA de CV</h4>
+        <h4>EMPRESA GUERRERO SA de CV</h4>
         <br>
     </center>  
     <%@include file="conexion.jsp"%><%--lalamda a la conexion BD --%>

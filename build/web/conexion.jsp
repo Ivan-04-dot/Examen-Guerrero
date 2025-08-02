@@ -12,6 +12,6 @@
        ResultSet rs=null;
     
        Class.forName("com.mysql.jdbc.Driver");
-       conexion=DriverManager.getConnection("jdbc:mysql://localhost/base_ivang_tss","root","");
+       conexion=DriverManager.getConnection("jdbc:mysql://localhost/bdd_exa_guerrero_tss","root","");
 
 %>

@@ -87,11 +87,11 @@ public final class index_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("        <table class=\"table table-striped table-bordered table-hover\" style=\"text-align: center\">\n");
       out.write("            <thead><!--inicia cabesera de tabla -->\n");
       out.write("                <tr>\n");
-      out.write("                    <th style=\"text-align: center\">NO EMPLEADO</th>\n");
+      out.write("                    <th style=\"text-align: center\"># EMPLEADO</th>\n");
       out.write("                    <th style=\"text-align: center\">NOMBRE</th>\n");
       out.write("                    <th style=\"text-align: center\">PUESTO</th>\n");
-      out.write("                    <th style=\"text-align: center\">DIAS TRABAJO</th>\n");
-      out.write("                    <th style=\"text-align: center\">SUELDO X DIA</th>\n");
+      out.write("                    <th style=\"text-align: center\">DIAS TRABAJADOS</th>\n");
+      out.write("                    <th style=\"text-align: center\">SUELDO DIARIO</th>\n");
       out.write("\n");
       out.write("                    <th style=\"text-align: center\">ELIMINAR</th>\n");
       out.write("                    <th style=\"text-align: center\">EDICION</th>\n");

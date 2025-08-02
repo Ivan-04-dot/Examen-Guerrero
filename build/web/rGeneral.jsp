@@ -12,7 +12,7 @@
         <div class="order-details">
             <div class="row"><!--inicia fila 1 -->
                 <center>
-                    <form method="post" action="rUsuario1.jsp">
+                    <form method="post" action="rUsuario.jsp">
                         <center>
                             <h3>ALTA USUARIO</h3>
                             <img src="./img//icon/inisesionalum2.jpg"/>
@@ -30,7 +30,7 @@
                                 <input class="input" type="text" placeholder="sueldo diario" required name="sueldo"/>
 
                                 <br><br>
-                                <input type="submit" class="primary-btn order-submit" value="Registrame"/>
+                                 <input type="submit" class="primary-btn order-submit" value="Registrarme"/>
 
                             </div>
                         </center>
